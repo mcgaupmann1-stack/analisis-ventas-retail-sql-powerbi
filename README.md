@@ -3,8 +3,8 @@
 
 Análisis de punta a punta de un año de ventas de una empresa retail con presencia en 8 países de Latinoamérica: limpieza de datos en Power Query, modelado relacional en SQL Server, análisis exploratorio y un dashboard en Power BI orientado a decisiones de marketing.
 
-![Dashboard – Resumen del mes](images/Dashboard1.png)
-![Dashboard – Resumen del mes](images/Dashboard2.png)
+![Dashboard_1](images/Dashboard1.png)
+![Dashboard_2](images/Dashboard2.png)
 
 ---
 
@@ -55,10 +55,10 @@ Problemas detectados en la tabla Ventas y cómo se resolvieron:
 | `transaction_id` repetido | 5 IDs (10 filas) | Eran ventas distintas: se conservó el ID en la más antigua y se asignó un ID nuevo (TXN-03001 a TXN-03005) a la más reciente, sin perder ventas |
 | Nombres de columnas inconsistentes | — | Renombradas a formato snake_case (`TransactionID` → `transaction_id`) |
 
-![Antes de la limpieza](images/Datos_originales1.png)
-![Antes de la limpieza](images/Datos_originales2.png)
-![Antes de la limpieza](images/Datos_originales3.png)
-![Antes de la limpieza](images/Datos_originales4.png)
+!(images/Datos_originales1.png)
+!(images/Datos_originales2.png)
+!(images/Datos_originales3.png)
+!(images/Datos_originales4.png)
 
 ### 2. Modelo de datos (SQL Server)
 
