@@ -55,9 +55,9 @@ Problemas detectados en la tabla Ventas y cómo se resolvieron:
 | `transaction_id` repetido | 5 IDs (10 filas) | Eran ventas distintas: se conservó el ID en la más antigua y se asignó un ID nuevo (TXN-03001 a TXN-03005) a la más reciente, sin perder ventas |
 | Nombres de columnas inconsistentes | — | Renombradas a formato snake_case (`TransactionID` → `transaction_id`) |
 
-![1](images/Datos_originales1.png)
+![1](images/Datos_orginales1.png)
 
-![2](images/Datos_originales2.png)
+![2](images/Datos_orginales2.png)
 
 ![3](images/Datos_originales3.png)
 
