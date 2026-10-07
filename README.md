@@ -57,9 +57,9 @@ Problemas detectados en la tabla Ventas y cómo se resolvieron:
 
 ![1](images/Datos_orginales1.png)
 
-![2](images/Datos_orginales2.png)
+![2](images/Datos_originales2.png)
 
-![3](images/Datos_originales3.png)
+![3](images/Datos_orginales3.png)
 
 ![4](images/Datos_originales4.png)
 
