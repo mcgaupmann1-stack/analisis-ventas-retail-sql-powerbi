@@ -148,4 +148,4 @@ Las medidas DAX (variación mensual, variación semestral, ticket promedio y for
 ---
 
 **María Cristina Gaupmann** · QA Analyst & Senior Systems Analyst
-[LinkedIn](https://www.linkedin.com/in/TU-PERFIL) · Proyecto final del curso de Data Analytics
+[LinkedIn](https://www.linkedin.com/in/maria-cristina-gaupmann/) · Proyecto final del curso de Data Analytics
