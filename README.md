@@ -1,9 +1,10 @@
-[README.md](https://github.com/user-attachments/files/33173320/README.md)
+
 # Análisis de ventas retail con SQL Server y Power BI
 
 Análisis de punta a punta de un año de ventas de una empresa retail con presencia en 8 países de Latinoamérica: limpieza de datos en Power Query, modelado relacional en SQL Server, análisis exploratorio y un dashboard en Power BI orientado a decisiones de marketing.
 
-![Dashboard – Resumen del mes](images/dashboard_pagina1.png)
+![Dashboard – Resumen del mes](images/Dashboard1.png)
+![Dashboard – Resumen del mes](images/Dashboard2.png)
 
 ---
 
