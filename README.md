@@ -87,7 +87,7 @@ Consultas en [`03_analisis_exploratorio.sql`](sql/03_analisis_exploratorio.sql).
 - **Fecha de referencia:** la última venta del dataset (07/04/2025), ya que los datos son históricos.
 - **Rango:** 30 fechas calendario, del 09/03/2025 al 07/04/2025 inclusive. **Resultado: 250 filas.**
 
-![Consulta en SQL Server](images/sql_ultimos_30_dias.png)
+
 
 ### 5. Dashboard (Power BI)
 
@@ -98,7 +98,8 @@ Dos páginas con una segmentación por mes sincronizada y botones de navegación
 | **¿Cómo nos fue?** | KPIs del mes con variación vs. mes anterior y variación semestral · evolución mensual con línea de promedio · ventas por categoría |
 | **¿A quién le vendemos y qué hacemos?** | Ventas por segmento y por país (mes actual vs. anterior) · recomendaciones para marketing |
 
-![Dashboard – Clientes y recomendaciones](images/dashboard_pagina2.png)
+![Dashboard – Clientes y recomendaciones](images/Power_BI_pagina1.png)
+![Dashboard – Clientes y recomendaciones](images/Power_BI_pagina2.png)
 
 Las medidas DAX (variación mensual, variación semestral, ticket promedio y formato condicional) están documentadas en [`medidas_dax.md`](powerbi/medidas_dax.md).
 
