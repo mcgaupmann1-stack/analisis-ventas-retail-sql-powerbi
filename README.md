@@ -56,6 +56,9 @@ Problemas detectados en la tabla Ventas y cómo se resolvieron:
 | Nombres de columnas inconsistentes | — | Renombradas a formato snake_case (`TransactionID` → `transaction_id`) |
 
 ![Antes de la limpieza](images/limpieza_antes.png)
+![Antes de la limpieza](images/limpieza_antes.png)
+![Antes de la limpieza](images/limpieza_antes.png)
+![Antes de la limpieza](images/limpieza_antes.png)
 
 ### 2. Modelo de datos (SQL Server)
 
